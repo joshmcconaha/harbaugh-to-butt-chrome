@@ -1,0 +1,19 @@
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 1, March 2015
+
+
+Copyright (C) 2015 Josh McConaha <josh@mcconaha.com>  @joshmcc
+
+Originally developed by Sam Hocevar <sam@hocevar.net>
+
+Seriously, I just replaced “the cloud” with “Harbaugh.”  I’m even copying this license file.  
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  1. You just DO WHAT THE FUCK YOU WANT TO.
+  2. Michigan sucks.
