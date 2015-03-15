@@ -18,8 +18,10 @@ In Chrome, choose Window > Extensions.  Drag Harbaugh-To-Butt.crx into the page 
 Non-Chrome Browsers
 ------------
 
-Your’e on your own.  cloud-for-butt has versions for other browsers.  Go to GitHub, download the zip, then find and replace “cloud” with “Harbaugh.”  
+You're on your own.  cloud-for-butt has versions for other browsers, or you could fork this and modify as you want.  Go to GitHub, download the zip, then find and replace “cloud” with “Harbaugh.”  
 
 https://github.com/logancollins/cloud-to-butt-safari
+
 https://github.com/DaveRandom/cloud-to-butt-mozilla
+
 https://github.com/DaveRandom/cloud-to-butt-opera
