@@ -31,7 +31,7 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\Harbaugh\b/g, "My Butt");
+	v = v.replace(/\bHarbaugh\b/g, "My Butt");
 	v = v.replace(/\bharbaugh\b/g, "My butt");
 	v = v.replace(/\bJim Harbaugh\b/g, "my Butt");
 	v = v.replace(/\bjim harbaugh\b/g, "my butt");
