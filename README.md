@@ -7,6 +7,8 @@ Because Michigan fans can’t shut up about Jim Harbaugh, I copied the popular c
 
 The idea came from this /r/cfb thread:  https://www.reddit.com/r/CFB/comments/2z1qp4/adblock_feature_request_deharbaugh/ 
 
+Example usage:  https://i.imgur.com/IiBXxo6.png
+
 
 Installation
 ------------
