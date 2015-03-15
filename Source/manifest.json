@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Harbaugh To Butt",
-	"version": "1.0",
+	"version": "2.0",
 	"description": "Replaces the text ‘Harbaugh’ with 'my butt'.",
 	"content_scripts": 
 	[
