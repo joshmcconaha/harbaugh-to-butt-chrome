@@ -11,7 +11,7 @@ The idea came from this /r/cfb thread:  https://www.reddit.com/r/CFB/comments/2z
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag HarbaughToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag Harbaugh-To-Butt.crx into the page that appears.
 
 Non-Chrome Browsers
 ------------
