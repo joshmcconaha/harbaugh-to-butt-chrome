@@ -13,7 +13,7 @@ Example usage:  https://i.imgur.com/IiBXxo6.png
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag Harbaugh-To-Butt.crx into the page that appears.
+Download the zip file to the right of this README.  In Chrome, choose Window > Extensions.  Drag Harbaugh-To-Butt.crx into the page that appears.
 
 Non-Chrome Browsers
 ------------
