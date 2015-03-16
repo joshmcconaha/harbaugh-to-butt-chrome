@@ -30,13 +30,13 @@ function walk(node)
 function handleText(textNode) 
 {
 	var v = textNode.nodeValue;
-
+	
+	v = v.replace(/\bJim Harbaugh\b/g, "my butt");
+	v = v.replace(/\bjim harbaugh\b/g, "my butt");
+	v = v.replace(/\bJIM HARBAUGH\b/g, "MY BUTT");
 	v = v.replace(/\bHarbaugh\b/g, "My Butt");
 	v = v.replace(/\bHARBAUGH\b/g, "MY BUTT");
-	v = v.replace(/\bJim Harbaugh\b/g, "my Butt");
-	v = v.replace(/\bjim harbaugh\b/g, "my butt");
 	v = v.replace(/\bharbaugh\b/g, "my butt");
-	v = v.replace(/\bJIM HARBAUGH\b/g, "MY BUTT");
 	
 	textNode.nodeValue = v;
 }
